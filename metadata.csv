@@ -1,0 +1,34 @@
+Declare,metatab-latest
+Title,
+Description,
+Identifier,2f94d74e-416a-4006-8cb5-3274caa29784
+Name,icpsr.umich.edu-ncvs_police_public-2015-1.1.1
+Dataset,ncvs_police_public
+Origin,icpsr.umich.edu
+Time,2015
+Space,
+Grain,
+Variant,
+Version,1.1.1
+Version.Major,1
+Version.Minor,1
+Version.Patch,1
+Created,2020-06-11T16:09:47
+Modified,2020-06-11T16:09:47
+Giturl,https://github.com/metatab-packages/policedata-collection.git
+
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
+
+Section,Documentation,Title,Description,
+Documentation,file:README.md,README,,
+Homepage,https://www.bjs.gov/index.cfm?ty=pbdetail&iid=6406,Home Page,ome page for the survey suplement
+DownloadPage,https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/36653#,ICSPR Download Page,Home page for downloading the full dataset. 
+Documentation,https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/36653/publications,Published Analyses,ICPSR List of papers that reference this dataset
+Documentation,https://scholar.harvard.edu/files/fryer/files/empirical_analysis_tables_figures.pdf,An Empirical Analysis of Racial Di↵erences in Police Use of Force,A research paper from Roland Fryer that uses this dataset
+Section,References,Name,Description,
+Reference,data/ICPSR_36653/DS0001/36653-0001-Data.dta,source,Source datafile
+
+Section,Resources,Name,Description,
+
+Section,Schema,DataType,AltName,Description
