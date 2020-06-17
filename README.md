@@ -7,6 +7,6 @@ be used as a source dataset.
 
 To use this source dataset: 
 
-1. [Download the source from ICPSR](https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/36653#) and put the ZIP file into the `data/` directory in this package
+1. [Download the source from ICPSR](https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/36653#) and put the ZIP file into the `data/` directory in this package. Download the Stata version of the source package. 
 2. Unzip the ZIP file. 
 3. Build this package with `mp build` or `mp make`

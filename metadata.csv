@@ -25,7 +25,7 @@ Documentation,file:README.md,README,,
 Homepage,https://www.bjs.gov/index.cfm?ty=pbdetail&iid=6406,Home Page,ome page for the survey suplement
 DownloadPage,https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/36653#,ICSPR Download Page,Home page for downloading the full dataset. 
 Documentation,https://www.icpsr.umich.edu/icpsrweb/NACJD/studies/36653/publications,Published Analyses,ICPSR List of papers that reference this dataset
-Documentation,https://scholar.harvard.edu/files/fryer/files/empirical_analysis_tables_figures.pdf,An Empirical Analysis of Racial Di↵erences in Police Use of Force,A research paper from Roland Fryer that uses this dataset
+Documentation,https://scholar.harvard.edu/files/fryer/files/empirical_analysis_tables_figures.pdf,An Empirical Analysis of Racial Differences in Police Use of Force,A research paper from Roland Fryer that uses this dataset
 Section,References,Name,Description,
 Reference,data/ICPSR_36653/DS0001/36653-0001-Data.dta,source,Source datafile
 
